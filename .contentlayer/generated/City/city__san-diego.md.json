@@ -1,0 +1,35 @@
+{
+  "title": "San Diego",
+  "slug": "san-diego",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/sd.jpeg",
+    "width": 300,
+    "height": 168,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "san diego",
+    "beach hotels",
+    "charger ready",
+    "california"
+  ],
+  "notionId": "22f1c4e2-8592-81c6-a01f-ee2d7c6d46be",
+  "status": true,
+  "bodyText": "Relaxing beach hotels w/ EV.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/san-diego.md",
+  "_raw": {
+    "sourceFilePath": "city/san-diego.md",
+    "sourceFileName": "san-diego.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/san-diego"
+  },
+  "type": "City",
+  "url": "/san-diego"
+}

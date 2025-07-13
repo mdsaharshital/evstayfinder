@@ -1,0 +1,36 @@
+{
+  "title": "Boston",
+  "slug": "boston",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/boston.jpg",
+    "width": 1920,
+    "height": 1200,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "boston",
+    "harbor hotels",
+    "charging",
+    "tesla",
+    "new england"
+  ],
+  "notionId": "22f1c4e2-8592-81e1-9cb8-c634ef8a3195",
+  "status": true,
+  "bodyText": "New England charm + EV access.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/boston.md",
+  "_raw": {
+    "sourceFilePath": "city/boston.md",
+    "sourceFileName": "boston.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/boston"
+  },
+  "type": "City",
+  "url": "/boston"
+}

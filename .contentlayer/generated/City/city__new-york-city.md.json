@@ -1,0 +1,37 @@
+{
+  "title": "New York City",
+  "slug": "new-york-city",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/nyc.jpeg",
+    "width": 275,
+    "height": 183,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "new york",
+    "manhattan",
+    "nyc",
+    "hotels",
+    "times square",
+    "ev charging"
+  ],
+  "notionId": "22f1c4e2-8592-816b-8c57-eeb2194f17c9",
+  "status": true,
+  "bodyText": "EV-friendly hotels in NYC.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/new-york-city.md",
+  "_raw": {
+    "sourceFilePath": "city/new-york-city.md",
+    "sourceFileName": "new-york-city.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/new-york-city"
+  },
+  "type": "City",
+  "url": "/new-york-city"
+}

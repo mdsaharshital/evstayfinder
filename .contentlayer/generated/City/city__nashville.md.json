@@ -1,0 +1,35 @@
+{
+  "title": "Nashville",
+  "slug": "nashville",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/nashville.jpg",
+    "width": 1920,
+    "height": 1079,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "nashville",
+    "tennessee",
+    "hotels with charger",
+    "live music stays"
+  ],
+  "notionId": "22f1c4e2-8592-8131-b012-c41fc66ad53c",
+  "status": true,
+  "bodyText": "Music City hotels w/ EV.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/nashville.md",
+  "_raw": {
+    "sourceFilePath": "city/nashville.md",
+    "sourceFileName": "nashville.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/nashville"
+  },
+  "type": "City",
+  "url": "/nashville"
+}

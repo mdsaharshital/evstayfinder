@@ -1,0 +1,35 @@
+{
+  "title": "Orlando",
+  "slug": "orlando",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/orlando.jpg",
+    "width": 1800,
+    "height": 1200,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "disney world",
+    "orlando",
+    "theme park hotels",
+    "ev friendly"
+  ],
+  "notionId": "22f1c4e2-8592-81bb-baa9-dd3e22d369f0",
+  "status": true,
+  "bodyText": "Hotels near Disney with charging.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/orlando.md",
+  "_raw": {
+    "sourceFilePath": "city/orlando.md",
+    "sourceFileName": "orlando.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/orlando"
+  },
+  "type": "City",
+  "url": "/orlando"
+}

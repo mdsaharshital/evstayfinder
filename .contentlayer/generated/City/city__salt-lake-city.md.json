@@ -1,0 +1,35 @@
+{
+  "title": "Salt Lake City",
+  "slug": "salt-lake-city",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/salt-lake-city.jpeg",
+    "width": 300,
+    "height": 168,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "salt lake",
+    "utah",
+    "mountain hotels",
+    "ev station nearby"
+  ],
+  "notionId": "22f1c4e2-8592-81b3-9e58-d77565463c14",
+  "status": true,
+  "bodyText": "Scenic hotels w/ chargers.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/salt-lake-city.md",
+  "_raw": {
+    "sourceFilePath": "city/salt-lake-city.md",
+    "sourceFileName": "salt-lake-city.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/salt-lake-city"
+  },
+  "type": "City",
+  "url": "/salt-lake-city"
+}

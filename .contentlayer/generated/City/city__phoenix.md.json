@@ -1,0 +1,36 @@
+{
+  "title": "Phoenix",
+  "slug": "phoenix",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/phoenix.jpg",
+    "width": 1280,
+    "height": 700,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "phoenix",
+    "arizona",
+    "desert hotels",
+    "solar",
+    "ev charging"
+  ],
+  "notionId": "22f1c4e2-8592-8112-865a-d9edec3b632d",
+  "status": true,
+  "bodyText": "Cool desert EV-ready hotels.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/phoenix.md",
+  "_raw": {
+    "sourceFilePath": "city/phoenix.md",
+    "sourceFileName": "phoenix.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/phoenix"
+  },
+  "type": "City",
+  "url": "/phoenix"
+}

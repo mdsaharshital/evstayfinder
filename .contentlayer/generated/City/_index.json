@@ -1,0 +1,715 @@
+[
+  {
+    "title": "Atlanta",
+    "slug": "atlanta",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/atlanta.jpg",
+      "width": 612,
+      "height": 408,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "atlanta",
+      "georgia",
+      "city center hotels",
+      "ev support"
+    ],
+    "notionId": "22f1c4e2-8592-81a2-85c2-cbfb51646701",
+    "status": true,
+    "bodyText": "ATL hotels with Tesla support.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/atlanta.md",
+    "_raw": {
+      "sourceFilePath": "city/atlanta.md",
+      "sourceFileName": "atlanta.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/atlanta"
+    },
+    "type": "City",
+    "url": "/atlanta"
+  },
+  {
+    "title": "Austin",
+    "slug": "austin",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/austin.jpg",
+      "width": 1020,
+      "height": 498,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "austin",
+      "texas",
+      "tech hotels",
+      "ev spots",
+      "tesla hub"
+    ],
+    "notionId": "22f1c4e2-8592-8181-8609-e522ee8f74d8",
+    "status": true,
+    "bodyText": "Cool EV-ready hotels in Austin.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/austin.md",
+    "_raw": {
+      "sourceFilePath": "city/austin.md",
+      "sourceFileName": "austin.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/austin"
+    },
+    "type": "City",
+    "url": "/austin"
+  },
+  {
+    "title": "Boston",
+    "slug": "boston",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/boston.jpg",
+      "width": 1920,
+      "height": 1200,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "boston",
+      "harbor hotels",
+      "charging",
+      "tesla",
+      "new england"
+    ],
+    "notionId": "22f1c4e2-8592-81e1-9cb8-c634ef8a3195",
+    "status": true,
+    "bodyText": "New England charm + EV access.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/boston.md",
+    "_raw": {
+      "sourceFilePath": "city/boston.md",
+      "sourceFileName": "boston.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/boston"
+    },
+    "type": "City",
+    "url": "/boston"
+  },
+  {
+    "title": "Chicago",
+    "slug": "chicago",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/chicago.jpg",
+      "width": 1400,
+      "height": 600,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "chicago",
+      "illinois",
+      "city hotels",
+      "parking",
+      "ev chargers"
+    ],
+    "notionId": "22f1c4e2-8592-81a2-973a-ef76c82bf217",
+    "status": true,
+    "bodyText": "Central Chicago EV hotels.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/chicago.md",
+    "_raw": {
+      "sourceFilePath": "city/chicago.md",
+      "sourceFileName": "chicago.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/chicago"
+    },
+    "type": "City",
+    "url": "/chicago"
+  },
+  {
+    "title": "Dallas",
+    "slug": "dallas",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/dalas.jpeg",
+      "width": 286,
+      "height": 176,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "dallas",
+      "texas",
+      "city hotels",
+      "ev access",
+      "affordable"
+    ],
+    "notionId": "22f1c4e2-8592-812d-b61f-eaa98881530a",
+    "status": true,
+    "bodyText": "Hotels with fast charging.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/dallas.md",
+    "_raw": {
+      "sourceFilePath": "city/dallas.md",
+      "sourceFileName": "dallas.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/dallas"
+    },
+    "type": "City",
+    "url": "/dallas"
+  },
+  {
+    "title": "Denver",
+    "slug": "denver",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/denver.jpeg",
+      "width": 338,
+      "height": 149,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "denver",
+      "colorado",
+      "rocky mountain",
+      "eco hotel"
+    ],
+    "notionId": "22f1c4e2-8592-816b-9cc0-c5c367d29f3d",
+    "status": true,
+    "bodyText": "Mile-high hotels with EV.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/denver.md",
+    "_raw": {
+      "sourceFilePath": "city/denver.md",
+      "sourceFileName": "denver.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/denver"
+    },
+    "type": "City",
+    "url": "/denver"
+  },
+  {
+    "title": "Honolulu",
+    "slug": "honolulu",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/honolulu.jpg",
+      "width": 1500,
+      "height": 1000,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "honolulu",
+      "hawaii",
+      "beachfront",
+      "eco stay",
+      "green hotel"
+    ],
+    "notionId": "22f1c4e2-8592-810b-aa2b-c6cccd7f912d",
+    "status": true,
+    "bodyText": "Hawaii hotels with chargers.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/honolulu.md",
+    "_raw": {
+      "sourceFilePath": "city/honolulu.md",
+      "sourceFileName": "honolulu.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/honolulu"
+    },
+    "type": "City",
+    "url": "/honolulu"
+  },
+  {
+    "title": "Las Vegas",
+    "slug": "las-vegas",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/las-vegas.jpg",
+      "width": 900,
+      "height": 500,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "vegas",
+      "casino hotels",
+      "strip",
+      "nevada",
+      "tesla charger"
+    ],
+    "notionId": "22f1c4e2-8592-81e1-b5f3-c538bd9d9ed0",
+    "status": true,
+    "bodyText": "EV hotels on and off the Strip.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/las-vegas.md",
+    "_raw": {
+      "sourceFilePath": "city/las-vegas.md",
+      "sourceFileName": "las-vegas.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/las-vegas"
+    },
+    "type": "City",
+    "url": "/las-vegas"
+  },
+  {
+    "title": "Los Angeles",
+    "slug": "los-angeles",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/lA.jpg",
+      "width": 1280,
+      "height": 700,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "la",
+      "los angeles",
+      "beach hotels",
+      "tesla",
+      "california hotels"
+    ],
+    "notionId": "22f1c4e2-8592-81e1-8a51-c39af5a6b214",
+    "status": true,
+    "bodyText": "LA’s best hotels with EV access.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/los-angeles.md",
+    "_raw": {
+      "sourceFilePath": "city/los-angeles.md",
+      "sourceFileName": "los-angeles.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/los-angeles"
+    },
+    "type": "City",
+    "url": "/los-angeles"
+  },
+  {
+    "title": "Miami",
+    "slug": "miami",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/miami.jpeg",
+      "width": 300,
+      "height": 168,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "miami",
+      "florida",
+      "beachfront hotels",
+      "tesla supercharger"
+    ],
+    "notionId": "22f1c4e2-8592-8105-a43d-c49d11f753fd",
+    "status": true,
+    "bodyText": "Beach hotels with EV access.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/miami.md",
+    "_raw": {
+      "sourceFilePath": "city/miami.md",
+      "sourceFileName": "miami.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/miami"
+    },
+    "type": "City",
+    "url": "/miami"
+  },
+  {
+    "title": "Nashville",
+    "slug": "nashville",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/nashville.jpg",
+      "width": 1920,
+      "height": 1079,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "nashville",
+      "tennessee",
+      "hotels with charger",
+      "live music stays"
+    ],
+    "notionId": "22f1c4e2-8592-8131-b012-c41fc66ad53c",
+    "status": true,
+    "bodyText": "Music City hotels w/ EV.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/nashville.md",
+    "_raw": {
+      "sourceFilePath": "city/nashville.md",
+      "sourceFileName": "nashville.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/nashville"
+    },
+    "type": "City",
+    "url": "/nashville"
+  },
+  {
+    "title": "New Orleans",
+    "slug": "new-orleans",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/new-orleans.jpg",
+      "width": 539,
+      "height": 360,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "new orleans",
+      "bourbon st",
+      "eco hotel",
+      "charging station"
+    ],
+    "notionId": "22f1c4e2-8592-8182-993f-eb134dc4f7e2",
+    "status": true,
+    "bodyText": "Jazz, food, and charging spots.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/new-orleans.md",
+    "_raw": {
+      "sourceFilePath": "city/new-orleans.md",
+      "sourceFileName": "new-orleans.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/new-orleans"
+    },
+    "type": "City",
+    "url": "/new-orleans"
+  },
+  {
+    "title": "New York City",
+    "slug": "new-york-city",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/nyc.jpeg",
+      "width": 275,
+      "height": 183,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "new york",
+      "manhattan",
+      "nyc",
+      "hotels",
+      "times square",
+      "ev charging"
+    ],
+    "notionId": "22f1c4e2-8592-816b-8c57-eeb2194f17c9",
+    "status": true,
+    "bodyText": "EV-friendly hotels in NYC.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/new-york-city.md",
+    "_raw": {
+      "sourceFilePath": "city/new-york-city.md",
+      "sourceFileName": "new-york-city.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/new-york-city"
+    },
+    "type": "City",
+    "url": "/new-york-city"
+  },
+  {
+    "title": "Orlando",
+    "slug": "orlando",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/orlando.jpg",
+      "width": 1800,
+      "height": 1200,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "disney world",
+      "orlando",
+      "theme park hotels",
+      "ev friendly"
+    ],
+    "notionId": "22f1c4e2-8592-81bb-baa9-dd3e22d369f0",
+    "status": true,
+    "bodyText": "Hotels near Disney with charging.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/orlando.md",
+    "_raw": {
+      "sourceFilePath": "city/orlando.md",
+      "sourceFileName": "orlando.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/orlando"
+    },
+    "type": "City",
+    "url": "/orlando"
+  },
+  {
+    "title": "Phoenix",
+    "slug": "phoenix",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/phoenix.jpg",
+      "width": 1280,
+      "height": 700,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "phoenix",
+      "arizona",
+      "desert hotels",
+      "solar",
+      "ev charging"
+    ],
+    "notionId": "22f1c4e2-8592-8112-865a-d9edec3b632d",
+    "status": true,
+    "bodyText": "Cool desert EV-ready hotels.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/phoenix.md",
+    "_raw": {
+      "sourceFilePath": "city/phoenix.md",
+      "sourceFileName": "phoenix.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/phoenix"
+    },
+    "type": "City",
+    "url": "/phoenix"
+  },
+  {
+    "title": "Portland",
+    "slug": "portland",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/images (2).jpeg",
+      "width": 275,
+      "height": 183,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "portland",
+      "oregon",
+      "green stay",
+      "eco hotels",
+      "ev option"
+    ],
+    "notionId": "22f1c4e2-8592-8174-b283-c4754342d17e",
+    "status": true,
+    "bodyText": "Eco-focused PNW hotels.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/portland.md",
+    "_raw": {
+      "sourceFilePath": "city/portland.md",
+      "sourceFileName": "portland.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/portland"
+    },
+    "type": "City",
+    "url": "/portland"
+  },
+  {
+    "title": "Salt Lake City",
+    "slug": "salt-lake-city",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/salt-lake-city.jpeg",
+      "width": 300,
+      "height": 168,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "salt lake",
+      "utah",
+      "mountain hotels",
+      "ev station nearby"
+    ],
+    "notionId": "22f1c4e2-8592-81b3-9e58-d77565463c14",
+    "status": true,
+    "bodyText": "Scenic hotels w/ chargers.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/salt-lake-city.md",
+    "_raw": {
+      "sourceFilePath": "city/salt-lake-city.md",
+      "sourceFileName": "salt-lake-city.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/salt-lake-city"
+    },
+    "type": "City",
+    "url": "/salt-lake-city"
+  },
+  {
+    "title": "San Diego",
+    "slug": "san-diego",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/sd.jpeg",
+      "width": 300,
+      "height": 168,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "san diego",
+      "beach hotels",
+      "charger ready",
+      "california"
+    ],
+    "notionId": "22f1c4e2-8592-81c6-a01f-ee2d7c6d46be",
+    "status": true,
+    "bodyText": "Relaxing beach hotels w/ EV.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/san-diego.md",
+    "_raw": {
+      "sourceFilePath": "city/san-diego.md",
+      "sourceFileName": "san-diego.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/san-diego"
+    },
+    "type": "City",
+    "url": "/san-diego"
+  },
+  {
+    "title": "San Francisco",
+    "slug": "san-francisco",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/san-francisco.jpeg",
+      "width": 300,
+      "height": 168,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "san francisco",
+      "sf",
+      "california",
+      "ev charging",
+      "eco hotels"
+    ],
+    "notionId": "22f1c4e2-8592-819b-8183-c46777ee551f",
+    "status": true,
+    "bodyText": "Hotels near Fisherman’s Wharf.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/san-francisco.md",
+    "_raw": {
+      "sourceFilePath": "city/san-francisco.md",
+      "sourceFileName": "san-francisco.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/san-francisco"
+    },
+    "type": "City",
+    "url": "/san-francisco"
+  },
+  {
+    "title": "Seattle",
+    "slug": "seattle",
+    "date": "2025-07-12T00:00:00.000Z",
+    "image": {
+      "src": "/images/city/seattle.jpg",
+      "width": 2120,
+      "height": 894,
+      "type": "Image",
+      "_raw": {}
+    },
+    "tags": [
+      "seattle",
+      "washington",
+      "state hotels",
+      "eco friendly",
+      "charging"
+    ],
+    "notionId": "22f1c4e2-8592-81fe-8ea2-f98b7d77eee0",
+    "status": true,
+    "bodyText": "Green hotels in Seattle.",
+    "body": {
+      "raw": "undefined",
+      "html": "<p>undefined</p>"
+    },
+    "_id": "city/seattle.md",
+    "_raw": {
+      "sourceFilePath": "city/seattle.md",
+      "sourceFileName": "seattle.md",
+      "sourceFileDir": "city",
+      "contentType": "markdown",
+      "flattenedPath": "city/seattle"
+    },
+    "type": "City",
+    "url": "/seattle"
+  }
+]

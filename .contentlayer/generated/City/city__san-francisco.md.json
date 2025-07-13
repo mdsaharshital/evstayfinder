@@ -1,0 +1,36 @@
+{
+  "title": "San Francisco",
+  "slug": "san-francisco",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/san-francisco.jpeg",
+    "width": 300,
+    "height": 168,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "san francisco",
+    "sf",
+    "california",
+    "ev charging",
+    "eco hotels"
+  ],
+  "notionId": "22f1c4e2-8592-819b-8183-c46777ee551f",
+  "status": true,
+  "bodyText": "Hotels near Fisherman’s Wharf.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/san-francisco.md",
+  "_raw": {
+    "sourceFilePath": "city/san-francisco.md",
+    "sourceFileName": "san-francisco.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/san-francisco"
+  },
+  "type": "City",
+  "url": "/san-francisco"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "10 Best Coffee Shops in Portland",
+  "citySlug": "san-francisco",
+  "slug": "best-coffee-shops-portland",
+  "date": "2025-07-10T00:00:00.000Z",
+  "image": {
+    "src": "/images/hotel/WhatsApp Image 2025-07-11 at 19.58.48_f36c0266.jpg",
+    "width": 1000,
+    "height": 1000,
+    "type": "Image",
+    "_raw": {}
+  },
+  "affiliateLink": "https://payglance310.vercel.app/",
+  "tags": [
+    "Blog",
+    "Social Media"
+  ],
+  "notionId": "22e1c4e2-8592-805d-a100-f8fd6e5ef0a1",
+  "status": true,
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "hotel/best-coffee-shops-portland.md",
+  "_raw": {
+    "sourceFilePath": "hotel/best-coffee-shops-portland.md",
+    "sourceFileName": "best-coffee-shops-portland.md",
+    "sourceFileDir": "hotel",
+    "contentType": "markdown",
+    "flattenedPath": "hotel/best-coffee-shops-portland"
+  },
+  "type": "Hotel",
+  "url": "/san-francisco/best-coffee-shops-portland"
+}

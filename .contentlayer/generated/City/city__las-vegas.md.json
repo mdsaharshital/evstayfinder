@@ -1,0 +1,36 @@
+{
+  "title": "Las Vegas",
+  "slug": "las-vegas",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/las-vegas.jpg",
+    "width": 900,
+    "height": 500,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "vegas",
+    "casino hotels",
+    "strip",
+    "nevada",
+    "tesla charger"
+  ],
+  "notionId": "22f1c4e2-8592-81e1-b5f3-c538bd9d9ed0",
+  "status": true,
+  "bodyText": "EV hotels on and off the Strip.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/las-vegas.md",
+  "_raw": {
+    "sourceFilePath": "city/las-vegas.md",
+    "sourceFileName": "las-vegas.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/las-vegas"
+  },
+  "type": "City",
+  "url": "/las-vegas"
+}

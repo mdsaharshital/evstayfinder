@@ -1,0 +1,35 @@
+{
+  "title": "Summer Festival Highlights: Seattle Edition",
+  "citySlug": "san-francisco",
+  "slug": "summer-festival-highlights-seattle",
+  "date": "2025-07-15T00:00:00.000Z",
+  "image": {
+    "src": "/images/hotel/WhatsApp Image 2025-07-11 at 19.58.49_b21215d6.jpg",
+    "width": 1000,
+    "height": 1000,
+    "type": "Image",
+    "_raw": {}
+  },
+  "affiliateLink": "https://payglance310.vercel.app/",
+  "tags": [
+    "News",
+    "Social Media",
+    "Video"
+  ],
+  "notionId": "22e1c4e2-8592-800e-a226-c02a910b266d",
+  "status": true,
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "hotel/summer-festival-highlights-seattle.md",
+  "_raw": {
+    "sourceFilePath": "hotel/summer-festival-highlights-seattle.md",
+    "sourceFileName": "summer-festival-highlights-seattle.md",
+    "sourceFileDir": "hotel",
+    "contentType": "markdown",
+    "flattenedPath": "hotel/summer-festival-highlights-seattle"
+  },
+  "type": "Hotel",
+  "url": "/san-francisco/summer-festival-highlights-seattle"
+}

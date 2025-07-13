@@ -1,0 +1,35 @@
+{
+  "title": "Denver",
+  "slug": "denver",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/denver.jpeg",
+    "width": 338,
+    "height": 149,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "denver",
+    "colorado",
+    "rocky mountain",
+    "eco hotel"
+  ],
+  "notionId": "22f1c4e2-8592-816b-9cc0-c5c367d29f3d",
+  "status": true,
+  "bodyText": "Mile-high hotels with EV.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/denver.md",
+  "_raw": {
+    "sourceFilePath": "city/denver.md",
+    "sourceFileName": "denver.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/denver"
+  },
+  "type": "City",
+  "url": "/denver"
+}

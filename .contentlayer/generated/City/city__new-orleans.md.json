@@ -1,0 +1,35 @@
+{
+  "title": "New Orleans",
+  "slug": "new-orleans",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/new-orleans.jpg",
+    "width": 539,
+    "height": 360,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "new orleans",
+    "bourbon st",
+    "eco hotel",
+    "charging station"
+  ],
+  "notionId": "22f1c4e2-8592-8182-993f-eb134dc4f7e2",
+  "status": true,
+  "bodyText": "Jazz, food, and charging spots.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/new-orleans.md",
+  "_raw": {
+    "sourceFilePath": "city/new-orleans.md",
+    "sourceFileName": "new-orleans.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/new-orleans"
+  },
+  "type": "City",
+  "url": "/new-orleans"
+}

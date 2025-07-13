@@ -1,0 +1,36 @@
+{
+  "title": "Honolulu",
+  "slug": "honolulu",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/honolulu.jpg",
+    "width": 1500,
+    "height": 1000,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "honolulu",
+    "hawaii",
+    "beachfront",
+    "eco stay",
+    "green hotel"
+  ],
+  "notionId": "22f1c4e2-8592-810b-aa2b-c6cccd7f912d",
+  "status": true,
+  "bodyText": "Hawaii hotels with chargers.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/honolulu.md",
+  "_raw": {
+    "sourceFilePath": "city/honolulu.md",
+    "sourceFileName": "honolulu.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/honolulu"
+  },
+  "type": "City",
+  "url": "/honolulu"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Seattle",
+  "slug": "seattle",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/seattle.jpg",
+    "width": 2120,
+    "height": 894,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "seattle",
+    "washington",
+    "state hotels",
+    "eco friendly",
+    "charging"
+  ],
+  "notionId": "22f1c4e2-8592-81fe-8ea2-f98b7d77eee0",
+  "status": true,
+  "bodyText": "Green hotels in Seattle.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/seattle.md",
+  "_raw": {
+    "sourceFilePath": "city/seattle.md",
+    "sourceFileName": "seattle.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/seattle"
+  },
+  "type": "City",
+  "url": "/seattle"
+}

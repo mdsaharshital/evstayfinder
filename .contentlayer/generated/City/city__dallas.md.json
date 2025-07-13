@@ -1,0 +1,36 @@
+{
+  "title": "Dallas",
+  "slug": "dallas",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/dalas.jpeg",
+    "width": 286,
+    "height": 176,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "dallas",
+    "texas",
+    "city hotels",
+    "ev access",
+    "affordable"
+  ],
+  "notionId": "22f1c4e2-8592-812d-b61f-eaa98881530a",
+  "status": true,
+  "bodyText": "Hotels with fast charging.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/dallas.md",
+  "_raw": {
+    "sourceFilePath": "city/dallas.md",
+    "sourceFileName": "dallas.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/dallas"
+  },
+  "type": "City",
+  "url": "/dallas"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Chicago",
+  "slug": "chicago",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/chicago.jpg",
+    "width": 1400,
+    "height": 600,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "chicago",
+    "illinois",
+    "city hotels",
+    "parking",
+    "ev chargers"
+  ],
+  "notionId": "22f1c4e2-8592-81a2-973a-ef76c82bf217",
+  "status": true,
+  "bodyText": "Central Chicago EV hotels.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/chicago.md",
+  "_raw": {
+    "sourceFilePath": "city/chicago.md",
+    "sourceFileName": "chicago.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/chicago"
+  },
+  "type": "City",
+  "url": "/chicago"
+}

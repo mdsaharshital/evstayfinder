@@ -1,0 +1,36 @@
+{
+  "title": "Los Angeles",
+  "slug": "los-angeles",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/lA.jpg",
+    "width": 1280,
+    "height": 700,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "la",
+    "los angeles",
+    "beach hotels",
+    "tesla",
+    "california hotels"
+  ],
+  "notionId": "22f1c4e2-8592-81e1-8a51-c39af5a6b214",
+  "status": true,
+  "bodyText": "LA’s best hotels with EV access.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/los-angeles.md",
+  "_raw": {
+    "sourceFilePath": "city/los-angeles.md",
+    "sourceFileName": "los-angeles.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/los-angeles"
+  },
+  "type": "City",
+  "url": "/los-angeles"
+}

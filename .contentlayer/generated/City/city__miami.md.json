@@ -1,0 +1,35 @@
+{
+  "title": "Miami",
+  "slug": "miami",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/miami.jpeg",
+    "width": 300,
+    "height": 168,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "miami",
+    "florida",
+    "beachfront hotels",
+    "tesla supercharger"
+  ],
+  "notionId": "22f1c4e2-8592-8105-a43d-c49d11f753fd",
+  "status": true,
+  "bodyText": "Beach hotels with EV access.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/miami.md",
+  "_raw": {
+    "sourceFilePath": "city/miami.md",
+    "sourceFileName": "miami.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/miami"
+  },
+  "type": "City",
+  "url": "/miami"
+}

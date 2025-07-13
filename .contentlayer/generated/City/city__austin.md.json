@@ -1,0 +1,36 @@
+{
+  "title": "Austin",
+  "slug": "austin",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/austin.jpg",
+    "width": 1020,
+    "height": 498,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "austin",
+    "texas",
+    "tech hotels",
+    "ev spots",
+    "tesla hub"
+  ],
+  "notionId": "22f1c4e2-8592-8181-8609-e522ee8f74d8",
+  "status": true,
+  "bodyText": "Cool EV-ready hotels in Austin.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/austin.md",
+  "_raw": {
+    "sourceFilePath": "city/austin.md",
+    "sourceFileName": "austin.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/austin"
+  },
+  "type": "City",
+  "url": "/austin"
+}

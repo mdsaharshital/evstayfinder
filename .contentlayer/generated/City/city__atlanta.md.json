@@ -1,0 +1,35 @@
+{
+  "title": "Atlanta",
+  "slug": "atlanta",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/atlanta.jpg",
+    "width": 612,
+    "height": 408,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "atlanta",
+    "georgia",
+    "city center hotels",
+    "ev support"
+  ],
+  "notionId": "22f1c4e2-8592-81a2-85c2-cbfb51646701",
+  "status": true,
+  "bodyText": "ATL hotels with Tesla support.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/atlanta.md",
+  "_raw": {
+    "sourceFilePath": "city/atlanta.md",
+    "sourceFileName": "atlanta.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/atlanta"
+  },
+  "type": "City",
+  "url": "/atlanta"
+}

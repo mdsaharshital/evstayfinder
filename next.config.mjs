@@ -1,4 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+// next.config.mjs (rare, but possible)
+import { withContentlayer } from "next-contentlayer";
 
-export default nextConfig;
+const nextConfig = {
+  reactStrictMode: true,
+};
+
+export default withContentlayer(nextConfig);

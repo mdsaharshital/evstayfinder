@@ -1,0 +1,36 @@
+{
+  "title": "Portland",
+  "slug": "portland",
+  "date": "2025-07-12T00:00:00.000Z",
+  "image": {
+    "src": "/images/city/images (2).jpeg",
+    "width": 275,
+    "height": 183,
+    "type": "Image",
+    "_raw": {}
+  },
+  "tags": [
+    "portland",
+    "oregon",
+    "green stay",
+    "eco hotels",
+    "ev option"
+  ],
+  "notionId": "22f1c4e2-8592-8174-b283-c4754342d17e",
+  "status": true,
+  "bodyText": "Eco-focused PNW hotels.",
+  "body": {
+    "raw": "undefined",
+    "html": "<p>undefined</p>"
+  },
+  "_id": "city/portland.md",
+  "_raw": {
+    "sourceFilePath": "city/portland.md",
+    "sourceFileName": "portland.md",
+    "sourceFileDir": "city",
+    "contentType": "markdown",
+    "flattenedPath": "city/portland"
+  },
+  "type": "City",
+  "url": "/portland"
+}
