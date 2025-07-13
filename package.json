@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
     "sync": "node sync-notion.js",
-    "content": "contentlayer dev",
-    "build": "next build",
+    "content": "contentlayer build",
+    "build": "npm run sync && npm run content && next build",
     "start": "next start",
+    "dev": "next dev --turbopack",
     "lint": "next lint"
   },
   "dependencies": {
