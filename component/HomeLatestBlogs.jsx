@@ -27,8 +27,8 @@ export default function HomeLatestBlogs({ latestBlogs }) {
                 },
                 datePublished: blog.datePublished,
                 description: blog.excerpt, // Short description of the blog post
-                url: `https://www.yoursite.com/blog/${blog.slug}`,
-                mainEntityOfPage: `https://www.yoursite.com/blog/${blog.slug}`,
+                url: `https://evstayfinder.vercel.app/blog/${blog.slug}`,
+                mainEntityOfPage: `https://evstayfinder.vercel.app/blog/${blog.slug}`,
               })}
             </script>
 

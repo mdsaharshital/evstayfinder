@@ -38,7 +38,7 @@ export default function HomeAllCities({ allCityChunks }) {
                   },
                   potentialAction: {
                     "@type": "SearchAction",
-                    target: `https://www.yoursite.com/${city.slug}`,
+                    target: `https://evstayfinder.vercel.app/${city.slug}`,
                     "query-input": "required name=search_term_string",
                   },
                 })}

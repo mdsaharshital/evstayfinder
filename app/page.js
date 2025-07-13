@@ -11,16 +11,17 @@ export default function HomePage() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: "EV-Friendly Hotels in Top US Cities",
-    url: "https://www.yoursite.com", // Replace with your site URL
+    url: "https://evstayfinder.vercel.app", // Replace with your site URL
     description:
       "Discover handpicked hotels with EV charging options in the most popular destinations across the U.S.",
-    mainEntityOfPage: "https://www.yoursite.com",
+    mainEntityOfPage: "https://evstayfinder.vercel.app",
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://www.yoursite.com/search?query={search_term_string}",
+      target:
+        "https://evstayfinder.vercel.app/search?query={search_term_string}",
       "query-input": "required name=search_term_string",
     },
-    image: "https://www.yoursite.com/images/hero-image.jpg", // Use your hero image URL
+    image: "https://evstayfinder.vercel.app/images/hero-image.jpg", // Use your hero image URL
   };
 
   return (
