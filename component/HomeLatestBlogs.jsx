@@ -42,7 +42,7 @@ export default function HomeLatestBlogs({ latestBlogs }) {
               />
             </div>
             <div className="p-4">
-              <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600">
+              <h3 className="text-lg font-semibold text-gray-900 group-hover:text-[#ff8b94]">
                 {blog.title}
               </h3>
             </div>

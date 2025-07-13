@@ -16,7 +16,8 @@ export default function HomeAllCities({ allCityChunks }) {
             <Link
               key={city.slug}
               href={`/${city.slug}`}
-              className="group block border border-gray-200 rounded-xl overflow-hidden shadow hover:shadow-md transition"
+              className="group block border border-gray-200 rounded-xl overflow-hidden
+               shadow hover:shadow-md transition mb-2"
             >
               {/* Schema Markup for each City */}
               <script type="application/ld+json">
@@ -54,7 +55,7 @@ export default function HomeAllCities({ allCityChunks }) {
                 />
               </div>
               <div className="p-4">
-                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600">
+                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-[#ff8b94]">
                   {city.title}
                 </h3>
               </div>
