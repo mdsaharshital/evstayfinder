@@ -56,6 +56,26 @@ export default function RootLayout({ children }) {
           name="google-site-verification"
           content="VUkRt9LNAhJml89S-DO4ie7TM0Sgy4jH93I5aBzQs6g"
         />
+        {/* Basic metadata */}
+        <meta name="application-name" content="EV Stay Finder" />
+        <meta name="theme-color" content="#ffffff" />
+        <meta property="og:site_name" content="EV Stay Finder" />
+
+        {/* Favicon */}
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="/images/evstayfinder.png" />
+
+        {/* Organization Schema for branding */}
+        <script type="application/ld+json" suppressHydrationWarning>
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            name: "EV Stay Finder",
+            url: "https://evstayfinder.vercel.app",
+            logo: "https://evstayfinder.vercel.app/images/evstayfinder.png",
+            sameAs: ["https://twitter.com/evstayfinder"],
+          })}
+        </script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
