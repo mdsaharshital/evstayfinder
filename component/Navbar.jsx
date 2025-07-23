@@ -77,16 +77,16 @@ export default function Navbar() {
             </button>
           ))}
           <Link
+            href="/blog"
+            className="font-semibold text-gray-700 hover:text-[#ff8b94]"
+          >
+            Blogs
+          </Link>
+          <Link
             href="/about"
             className="font-semibold text-gray-700 hover:text-[#ff8b94]"
           >
             About
-          </Link>
-          <Link
-            href="/contact"
-            className="font-semibold text-gray-700 hover:text-[#ff8b94]"
-          >
-            Contact
           </Link>
         </div>
         {/* Mobile Menu Toggle (Hamburger Icon) */}

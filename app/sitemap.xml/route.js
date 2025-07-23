@@ -4,16 +4,19 @@ import { NextResponse } from "next/server";
 export async function GET() {
   const baseUrl = "https://evstayfinder.vercel.app";
 
-  const staticPages = [""].map(
+  // Static Pages
+  const staticPages = ["", "about", "contact", "blog"].map(
     (path) =>
       `<url><loc>${baseUrl}/${path}</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>`
   );
 
+  // City Pages
   const cityPages = allCities.map(
     (city) =>
       `<url><loc>${baseUrl}/${city.slug}</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`
   );
 
+  // Blog Pages
   const blogPages = allBlogs.map(
     (blog) =>
       `<url><loc>${baseUrl}/blog/${blog.slug}</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>`
@@ -33,6 +36,7 @@ export async function GET() {
     )
   );
 
+  // Full Sitemap
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
