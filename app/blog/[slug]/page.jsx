@@ -76,7 +76,6 @@ export async function generateMetadata({ params }) {
 export default async function BlogPost({ params }) {
   const result = await wisp.getPost(params.slug);
   if (!result?.post) return notFound();
-  console.log(result);
 
   const { title, publishedAt, createdAt, content, tags, excerpt, image } =
     result.post;
@@ -91,7 +90,7 @@ export default async function BlogPost({ params }) {
   );
 
   return (
-    <article className="max-w-3xl mx-auto p-6">
+    <article className="max-w-4xl mx-auto p-6">
       {/* Blog Structured Data */}
       <BlogStructuredData blog={result.post} />
 
@@ -117,7 +116,7 @@ export default async function BlogPost({ params }) {
           {tags.map((tag) => (
             <span
               key={tag.name}
-              className="inline-block bg-[#ff8b94] text-white text-xs px-2 py-1 rounded-full mr-2"
+              className="inline-block my-2 bg-[#ff8b94] text-white text-xs px-2 py-1 rounded-full mr-2"
             >
               #{tag.name}
             </span>
@@ -132,7 +131,7 @@ export default async function BlogPost({ params }) {
 
       {/* Blog Body */}
       <div
-        className="prose pt-6 text-foreground"
+        className="pt-6 text-foreground prose max-w-none"
         dangerouslySetInnerHTML={{ __html: content }}
       />
 

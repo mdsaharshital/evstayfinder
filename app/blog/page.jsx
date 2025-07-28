@@ -64,7 +64,6 @@ export const metadata = {
 
 export default async function BlogPage() {
   const result = await wisp.getPosts({ limit: POSTS_PER_PAGE });
-  console.log(result);
 
   return (
     <section className="container max-w-7xl mx-auto mt-16 p-4">
@@ -98,7 +97,10 @@ export default async function BlogPage() {
             </Link>
             <div className="mt-4 space-y-2">
               <h3 className="text-xl font-semibold leading-tight">
-                <Link href={`/blog/${post.slug}`} className="hover:text-accent">
+                <Link
+                  href={`/blog/${post.slug}`}
+                  className="text-[#ff8b94] hover:text-accent"
+                >
                   {post.title}
                 </Link>
               </h3>
