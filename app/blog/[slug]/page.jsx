@@ -1,100 +1,145 @@
-// app/blog/[slug]/page.jsx
-import { allBlogs } from "contentlayer/generated";
-import { notFound } from "next/navigation";
-import Image from "next/image";
-import { BlogStructuredData } from "component/BlogStructuredData";
 import Link from "next/link";
+import { wisp } from "src/lib/wisp";
+import { notFound } from "next/navigation";
+import { Fragment } from "react";
+
+export function BlogStructuredData({ blog }) {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: blog.title,
+    datePublished: blog.publishedAt || blog.createdAt,
+    author: {
+      "@type": "Organization",
+      name: "Evstayfinder",
+    },
+    image:
+      blog.image?.url ||
+      "https://evstayfinder.vercel.app/images/evstayfinder.png",
+    description: blog.excerpt,
+    url: `https://evstayfinder.vercel.app/blog/${blog.slug}`,
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
+  );
+}
 
 export async function generateMetadata({ params }) {
-  const blog = allBlogs.find((b) => b.slug === params.slug);
-  if (!blog) return notFound();
+  const result = await wisp.getPost(params.slug);
+  const post = result?.post;
+  if (!post) return notFound();
 
-  const fullUrl = `https://evstayfinder.vercel.app/blog/${blog.slug}`;
+  const fullUrl = `https://evstayfinder.vercel.app/blog/${params.slug}`;
+  const imageUrl = post.image?.url || "/images/evstayfinder.png";
 
   return {
-    title: blog.title,
-    description: blog.excerpt,
+    title: post.title,
+    description: post.excerpt || post.description,
+    keywords: [
+      ...post.tags.map((tag) => tag.name),
+      "EV travel USA",
+      "electric car hotels",
+      "Tesla charging hotels",
+      "EV road trip tips",
+      post.title,
+    ],
     alternates: {
       canonical: fullUrl,
     },
     openGraph: {
-      title: blog.title,
-      description: blog.excerpt,
+      title: post.title,
+      description: post.excerpt || post.description,
       url: fullUrl,
       type: "article",
       images: [
         {
-          url: blog.image?.src || "/images/evstayfinder.png",
-          width: blog.image?.width || 1200,
-          height: blog.image?.height || 630,
-          alt: blog.title,
+          url: imageUrl,
+          width: 1200,
+          height: 630,
+          alt: post.title,
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: blog.title,
-      description: blog.excerpt,
-      image: blog.image?.src || "/images/evstayfinder.png",
+      title: post.title,
+      description: post.excerpt || post.title,
+      images: [imageUrl],
     },
   };
 }
 
-export default function BlogPost({ params }) {
-  const blog = allBlogs.find((b) => b.slug === params.slug);
-  if (!blog) return notFound();
+export default async function BlogPost({ params }) {
+  const result = await wisp.getPost(params.slug);
+  if (!result?.post) return notFound();
+  console.log(result);
 
-  const formattedDate = new Date(blog.date).toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
+  const { title, publishedAt, createdAt, content, tags, excerpt, image } =
+    result.post;
+
+  const formattedDate = new Date(publishedAt || createdAt).toLocaleDateString(
+    "en-US",
+    {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    }
+  );
 
   return (
     <article className="max-w-3xl mx-auto p-6">
       {/* Blog Structured Data */}
-      <BlogStructuredData blog={blog} />
+      <BlogStructuredData blog={result.post} />
 
       {/* Main Image */}
-      <Image
-        src={blog.image.src}
-        width={blog.image.width}
-        height={blog.image.height}
-        alt={blog.title}
-        className="rounded-xl object-cover mb-6"
-      />
+      {image?.url && (
+        <Image
+          fill
+          src={image.url}
+          alt={title}
+          className="rounded-xl object-cover mb-6 w-full"
+          width={image.width || 1200}
+          height={image.height || 630}
+        />
+      )}
 
       {/* Blog Title */}
-      <h1 className="text-3xl font-bold text-primary mt-4">{blog.title}</h1>
+      <h1 className="text-3xl font-bold text-primary mt-4">{title}</h1>
 
-      {/* Publication Date and Tags */}
+      {/* Date & Tags */}
       <div className="text-sm text-muted-foreground mt-2">
         <p>Published on {formattedDate}</p>
         <div className="mt-2">
-          {blog.tags.map((tag) => (
+          {tags.map((tag) => (
             <span
-              key={tag}
+              key={tag.name}
               className="inline-block bg-[#ff8b94] text-white text-xs px-2 py-1 rounded-full mr-2"
             >
-              #{tag}
+              #{tag.name}
             </span>
           ))}
         </div>
       </div>
 
       {/* Excerpt */}
-      <div className="prose pt-6 text-muted-foreground">{blog.excerpt}</div>
+      {excerpt && (
+        <div className="prose pt-6 text-muted-foreground">{excerpt}</div>
+      )}
 
-      {/* Full Blog Content */}
+      {/* Blog Body */}
       <div
         className="prose pt-6 text-foreground"
-        dangerouslySetInnerHTML={{ __html: blog.bodyText }}
+        dangerouslySetInnerHTML={{ __html: content }}
       />
 
-      {/* Call to Action */}
+      {/* CTA */}
       <div className="mt-6 p-4 bg-[#ff8b94] text-white rounded-xl">
         <p className="text-center">
-          Interested in more tips and strategies? Check out our other blogs!
+          Want more EV travel insights? Browse our latest blogs to stay ahead!
         </p>
         <div className="text-center mt-3">
           <Link

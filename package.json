@@ -14,6 +14,7 @@
     "@geist-ui/react": "^2.2.5",
     "@kodaps/notion-parse": "^0.0.17",
     "@vercel/analytics": "^1.5.0",
+    "@wisp-cms/client": "^0.0.23",
     "contentlayer": "^0.3.4",
     "date-fns": "^4.1.0",
     "dotenv": "^17.2.0",
@@ -27,6 +28,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.16",
     "eslint": "^9",
     "eslint-config-next": "15.3.5",
     "tailwindcss": "^4"

@@ -1,120 +1,140 @@
 {
   "cacheItemsMap": {
-    "blog/financial-planning-for-millennials.md": {
+    "blog/find-hotels-with-working-ev-chargers-2025.md": {
       "document": {
-        "title": "Financial Planning for Millennials",
-        "slug": "financial-planning-for-millennials",
-        "date": "2025-07-10T00:00:00.000Z",
-        "excerpt": "Essential money management strategies tailored for the unique challenges facing millennials today.",
+        "title": "How to Actually Find Hotels with Working EV Charging (Not Broken Junk) [2025 Update]",
+        "slug": "find-hotels-with-working-ev-chargers-2025",
+        "date": "2025-07-13T00:00:00.000Z",
+        "excerpt": "Tired of hotels lying about EV chargers? Here's how to find working EV charging hotels with real reviews, verified photos & smart tips.",
         "image": {
-          "src": "/images/blog/freepik__the-style-is-candid-image-photography-with-natural__82647.png",
-          "width": 1344,
-          "height": 768,
-          "type": "Image",
-          "_raw": {}
-        },
-        "tags": [
-          "Finance",
-          "Lifestyle",
-          "Education"
-        ],
-        "notionId": "22e1c4e2-8592-801a-addd-f2c90e667192",
-        "status": true,
-        "bodyText": "From managing student debt to planning for retirement in an uncertain economy, millennials face unique financial challenges. This comprehensive guide breaks down effective strategies for building wealth, investing wisely, and achieving financial independence despite economic headwinds.",
-        "body": {
-          "raw": "undefined",
-          "html": "<p>undefined</p>"
-        },
-        "_id": "blog/financial-planning-for-millennials.md",
-        "_raw": {
-          "sourceFilePath": "blog/financial-planning-for-millennials.md",
-          "sourceFileName": "financial-planning-for-millennials.md",
-          "sourceFileDir": "blog",
-          "contentType": "markdown",
-          "flattenedPath": "blog/financial-planning-for-millennials"
-        },
-        "type": "Blog",
-        "url": "/blog/financial-planning-for-millennials"
-      },
-      "documentHash": "1752432949429",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
-    "blog/sustainable-travel-exploring-without-harm.md": {
-      "document": {
-        "title": "Sustainable Travel: Exploring Without Harm",
-        "slug": "sustainable-travel-exploring-without-harm",
-        "date": "2025-07-15T00:00:00.000Z",
-        "excerpt": "Practical tips for eco-friendly travel that minimizes environmental impact while maximizing experiences.",
-        "image": {
-          "src": "/images/blog/freepik__the-style-is-candid-image-photography-with-natural__82649.png",
-          "width": 1344,
-          "height": 768,
+          "src": "/images/blog/Leonardo_Kino_XL_Image_IdeasImageAlt_TextPlugShare_hotel_filt_2.jpg",
+          "width": 1280,
+          "height": 720,
           "type": "Image",
           "_raw": {}
         },
         "tags": [
           "Travel",
-          "Lifestyle"
+          "Lifestyle",
+          "ev",
+          "tesla",
+          "charger",
+          "hotels",
+          "hotels with ev charger"
         ],
-        "notionId": "22e1c4e2-8592-809c-8a6f-e8a613fb94f5",
+        "notionId": "22e1c4e2-8592-80b9-8b09-d2231b2ad19a",
         "status": true,
-        "bodyText": "As global tourism rebounds, the importance of sustainable travel practices has never been more critical. This guide offers actionable strategies for reducing your carbon footprint while traveling, supporting local communities, and preserving natural and cultural heritage sites.",
+        "bodyText": "⚡ You Pull Into the Hotel… and the Charger’s Dead",
         "body": {
           "raw": "undefined",
           "html": "<p>undefined</p>"
         },
-        "_id": "blog/sustainable-travel-exploring-without-harm.md",
+        "_id": "blog/find-hotels-with-working-ev-chargers-2025.md",
         "_raw": {
-          "sourceFilePath": "blog/sustainable-travel-exploring-without-harm.md",
-          "sourceFileName": "sustainable-travel-exploring-without-harm.md",
+          "sourceFilePath": "blog/find-hotels-with-working-ev-chargers-2025.md",
+          "sourceFileName": "find-hotels-with-working-ev-chargers-2025.md",
           "sourceFileDir": "blog",
           "contentType": "markdown",
-          "flattenedPath": "blog/sustainable-travel-exploring-without-harm"
+          "flattenedPath": "blog/find-hotels-with-working-ev-chargers-2025"
         },
         "type": "Blog",
-        "url": "/blog/sustainable-travel-exploring-without-harm"
+        "url": "/blog/find-hotels-with-working-ev-chargers-2025"
       },
-      "documentHash": "1752432949751",
+      "documentHash": "1753728088833",
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "blog/the-future-of-artificial-intelligence.md": {
+    "blog/Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging.md": {
       "document": {
-        "title": "The Future of Artificial Intelligence",
-        "slug": "the-future-of-artificial-intelligence",
-        "date": "2025-07-13T00:00:00.000Z",
-        "excerpt": "Exploring how AI will transform industries and daily life in the next decade.",
+        "title": "🏨 Hotel Chain Reality Check (Insider Rankings for EV Charging)",
+        "slug": "Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging",
+        "date": "2025-07-10T00:00:00.000Z",
+        "excerpt": "Not all hotel chains support EVs equally. See which brands offer real charging vs fake promises, ranked from best to worst for EV travelers",
         "image": {
-          "src": "/images/blog/freepik__the-style-is-candid-image-photography-with-natural__82648.png",
-          "width": 1344,
-          "height": 768,
+          "src": "/images/blog/Leonardo_Kino_XL_Practical_tips_for_ecofriendly_travel_that_mi_3.jpg",
+          "width": 1280,
+          "height": 720,
           "type": "Image",
           "_raw": {}
         },
         "tags": [
-          "Technology",
-          "Business"
+          "Travel",
+          "Lifestyle",
+          "ev",
+          "tesla",
+          "charger",
+          "hotels",
+          "hotels with ev charger",
+          "hotel chain with ev charger",
+          "best hotel for tesla charging",
+          "hilton ev charging",
+          "marriott tesla charger",
+          "hyatt ev friendly hotels",
+          "worst hotel chains for ev"
         ],
-        "notionId": "22e1c4e2-8592-80b9-8b09-d2231b2ad19a",
+        "notionId": "22e1c4e2-8592-801a-addd-f2c90e667192",
         "status": true,
-        "bodyText": "Artificial intelligence continues to evolve at a remarkable pace, reshaping how we work, communicate, and solve problems. This article examines emerging trends in AI development and their potential impacts across various sectors.",
+        "bodyText": "Not all hotel chains are created equal when it comes to EV charging.\nSome go above and beyond for electric drivers, while others just slap a charger on their listing and forget it exists.\nHere’s how they ",
         "body": {
           "raw": "undefined",
           "html": "<p>undefined</p>"
         },
-        "_id": "blog/the-future-of-artificial-intelligence.md",
+        "_id": "blog/Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging.md",
         "_raw": {
-          "sourceFilePath": "blog/the-future-of-artificial-intelligence.md",
-          "sourceFileName": "the-future-of-artificial-intelligence.md",
+          "sourceFilePath": "blog/Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging.md",
+          "sourceFileName": "Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging.md",
           "sourceFileDir": "blog",
           "contentType": "markdown",
-          "flattenedPath": "blog/the-future-of-artificial-intelligence"
+          "flattenedPath": "blog/Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging"
         },
         "type": "Blog",
-        "url": "/blog/the-future-of-artificial-intelligence"
+        "url": "/blog/Hotel-Chain-Reality-Check-Insider-rankings-for-EV-Charging"
       },
-      "documentHash": "1752432950278",
+      "documentHash": "1753728088215",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025.md": {
+      "document": {
+        "title": "I Stayed at 47 Hotels with EV Chargers - Here's What Actually Works (2025)",
+        "slug": "i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025",
+        "date": "2025-07-15T00:00:00.000Z",
+        "excerpt": "Practical tips for eco-friendly travel that minimizes environmental impact while maximizing experiences.",
+        "image": {
+          "src": "/images/blog/Leonardo_Kino_XL_Image_IdeasImageAlt_TextPlugShare_hotel_filt_2 (1).jpg",
+          "width": 1280,
+          "height": 720,
+          "type": "Image",
+          "_raw": {}
+        },
+        "tags": [
+          "Travel",
+          "Lifestyle",
+          "ev",
+          "tesla",
+          "charger",
+          "hotels",
+          "hotels with ev charger"
+        ],
+        "notionId": "22e1c4e2-8592-809c-8a6f-e8a613fb94f5",
+        "status": true,
+        "bodyText": "Do hotels have EV charging stations? Short answer: ",
+        "body": {
+          "raw": "undefined",
+          "html": "<p>undefined</p>"
+        },
+        "_id": "blog/i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025.md",
+        "_raw": {
+          "sourceFilePath": "blog/i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025.md",
+          "sourceFileName": "i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025.md",
+          "sourceFileDir": "blog",
+          "contentType": "markdown",
+          "flattenedPath": "blog/i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025"
+        },
+        "type": "Blog",
+        "url": "/blog/i-stayed-at-47-hotels-with-EV-chargers-heres-what-actually-works-2025"
+      },
+      "documentHash": "1753728088530",
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
@@ -154,7 +174,7 @@
         "type": "City",
         "url": "/atlanta"
       },
-      "documentHash": "1752432942721",
+      "documentHash": "1753728053945",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -195,7 +215,7 @@
         "type": "City",
         "url": "/austin"
       },
-      "documentHash": "1752432944849",
+      "documentHash": "1753728056792",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -236,7 +256,7 @@
         "type": "City",
         "url": "/boston"
       },
-      "documentHash": "1752432944285",
+      "documentHash": "1753728056154",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -277,7 +297,7 @@
         "type": "City",
         "url": "/chicago"
       },
-      "documentHash": "1752432946085",
+      "documentHash": "1753728074627",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -318,7 +338,7 @@
         "type": "City",
         "url": "/dallas"
       },
-      "documentHash": "1752432944025",
+      "documentHash": "1753728054535",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -358,7 +378,7 @@
         "type": "City",
         "url": "/denver"
       },
-      "documentHash": "1752432944561",
+      "documentHash": "1753728056482",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -399,7 +419,7 @@
         "type": "City",
         "url": "/honolulu"
       },
-      "documentHash": "1752432941660",
+      "documentHash": "1753728052938",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -440,7 +460,7 @@
         "type": "City",
         "url": "/las-vegas"
       },
-      "documentHash": "1752432947307",
+      "documentHash": "1753728075353",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -481,7 +501,7 @@
         "type": "City",
         "url": "/los-angeles"
       },
-      "documentHash": "1752432947944",
+      "documentHash": "1753728076001",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -521,7 +541,7 @@
         "type": "City",
         "url": "/miami"
       },
-      "documentHash": "1752432945760",
+      "documentHash": "1753728057831",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -561,7 +581,7 @@
         "type": "City",
         "url": "/nashville"
       },
-      "documentHash": "1752432942025",
+      "documentHash": "1753728053220",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -601,7 +621,7 @@
         "type": "City",
         "url": "/new-orleans"
       },
-      "documentHash": "1752432942437",
+      "documentHash": "1753728053547",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -643,7 +663,7 @@
         "type": "City",
         "url": "/new-york-city"
       },
-      "documentHash": "1752432948263",
+      "documentHash": "1753728076294",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -683,7 +703,7 @@
         "type": "City",
         "url": "/orlando"
       },
-      "documentHash": "1752432946386",
+      "documentHash": "1753728075006",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -724,7 +744,7 @@
         "type": "City",
         "url": "/phoenix"
       },
-      "documentHash": "1752432943051",
+      "documentHash": "1753728054236",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -765,7 +785,7 @@
         "type": "City",
         "url": "/portland"
       },
-      "documentHash": "1752432941098",
+      "documentHash": "1753728051391",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -805,7 +825,7 @@
         "type": "City",
         "url": "/salt-lake-city"
       },
-      "documentHash": "1752432941377",
+      "documentHash": "1753728052618",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -845,7 +865,7 @@
         "type": "City",
         "url": "/san-diego"
       },
-      "documentHash": "1752432945137",
+      "documentHash": "1753728057079",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -886,7 +906,7 @@
         "type": "City",
         "url": "/san-francisco"
       },
-      "documentHash": "1752432947613",
+      "documentHash": "1753728075670",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -927,7 +947,7 @@
         "type": "City",
         "url": "/seattle"
       },
-      "documentHash": "1752432945473",
+      "documentHash": "1753728057374",
       "hasWarnings": false,
       "documentTypeName": "City"
     },
@@ -966,7 +986,7 @@
         "type": "Hotel",
         "url": "/san-francisco/best-coffee-shops-portland"
       },
-      "documentHash": "1752432954878",
+      "documentHash": "1753728091215",
       "hasWarnings": false,
       "documentTypeName": "Hotel"
     },
@@ -1006,7 +1026,7 @@
         "type": "Hotel",
         "url": "/san-francisco/summer-festival-highlights-seattle"
       },
-      "documentHash": "1752432952676",
+      "documentHash": "1753728089811",
       "hasWarnings": false,
       "documentTypeName": "Hotel"
     },
@@ -1046,7 +1066,7 @@
         "type": "Hotel",
         "url": "/austin/ultimate-guide-digital-marketing-2025"
       },
-      "documentHash": "1752432953733",
+      "documentHash": "1753728090877",
       "hasWarnings": false,
       "documentTypeName": "Hotel"
     }
