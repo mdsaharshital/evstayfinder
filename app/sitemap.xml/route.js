@@ -1,5 +1,6 @@
-import { allCities, allBlogs } from "contentlayer/generated";
+import { allCities } from "contentlayer/generated";
 import { NextResponse } from "next/server";
+import { wisp } from "src/lib/wisp";
 
 export async function GET() {
   const baseUrl = "https://evstayfinder.vercel.app";
@@ -16,12 +17,6 @@ export async function GET() {
       `<url><loc>${baseUrl}/${city.slug}</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`
   );
 
-  // Blog Pages
-  const blogPages = allBlogs.map(
-    (blog) =>
-      `<url><loc>${baseUrl}/blog/${blog.slug}</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>`
-  );
-
   // Themed prefix-based pages
   const themedPrefixes = [
     "tesla-charger-hotels-in",
@@ -36,7 +31,16 @@ export async function GET() {
     )
   );
 
-  // Full Sitemap
+  // 🔥 Fetch blog posts from Wisp (API-based, not static)
+  const POSTS_PER_PAGE = 1000; // Ensure you fetch all
+  const result = await wisp.getPosts({ limit: POSTS_PER_PAGE });
+
+  const blogPages = result.posts.map(
+    (post) =>
+      `<url><loc>${baseUrl}/blog/${post.slug}</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>`
+  );
+
+  // Final Sitemap XML
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
