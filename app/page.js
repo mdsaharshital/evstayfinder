@@ -138,7 +138,7 @@ export default function HomePage() {
         {/* View All Cities Link */}
         <section
           aria-label="View all cities with EV friendly hotels"
-          className="text-center"
+          className="text-center "
         >
           <ViewAllCitiesLink />
         </section>
